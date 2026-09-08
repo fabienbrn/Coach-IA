@@ -1,0 +1,19 @@
+{
+  "name": "Charge, coach de musculation",
+  "short_name": "Charge",
+  "description": "Programme de prise de masse personnalise, suivi de seances, reathletisation et nutrition. Fonctionne hors ligne.",
+  "id": "/Coach-IA/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0E1A20",
+  "theme_color": "#0E1A20",
+  "lang": "fr",
+  "categories": ["health", "fitness", "sports"],
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
